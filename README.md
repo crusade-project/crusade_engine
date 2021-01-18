@@ -1,2 +1,2 @@
 # crusade_engine
-The engine powering Cruasade
+The engine powering Crusade
